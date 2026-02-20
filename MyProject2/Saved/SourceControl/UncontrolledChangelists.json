@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
+				"C:/Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/EQ/VVNCWTY9XE70K3H1DH5JD5.uasset",
+				"C:/Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/2E/5D9ZQ87BKG66IKBOGT0P78.uasset",
+				"C:/Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/L3/A0VIIF2FOZQJKVG0MY6WB1.uasset"
+			]
+		}
+	]
+}
