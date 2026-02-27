@@ -5,11 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"A:/Unreal-CMP4305/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset",
 				"C:/Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/EQ/VVNCWTY9XE70K3H1DH5JD5.uasset",
 				"C:/Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/2E/5D9ZQ87BKG66IKBOGT0P78.uasset",
-				"C:/Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/L3/A0VIIF2FOZQJKVG0MY6WB1.uasset"
+				"C:/Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/L3/A0VIIF2FOZQJKVG0MY6WB1.uasset",
+				"C:/Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/_customAssets/blueprints/BP_Checkpoint.uasset",
+				"C:/Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/VU/NH2TMRQWFTMN7KDJLWX2J0.uasset",
+				"C:/Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/D1/BA2RKLYYDM6V5NPSIUQEBA.uasset",
+				"C:/Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/MS/2145C8R1TL2WBKYQXD93MY.uasset",
+				"C:/Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/1U/DJCFDYHXJW498RPEA0RS7G.uasset",
+				"C:/Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/NC/FV81VXIG2P1U36WA7D7P88.uasset",
+				"C:/Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/P5/1G9JP011WSAN8J1OYFA6JZ.uasset",
+				"C:/Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/61/3OIQERWPNEOKFJEW0HC707.uasset",
+				"C:/Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/HW/DI6EZCHWRMA0MC4N9O5HZH.uasset",
+				"A:/Unreal-CMP4305/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
