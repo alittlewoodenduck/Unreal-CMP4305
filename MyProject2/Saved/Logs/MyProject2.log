@@ -1755,3 +1755,242 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.06-10.03.04:194][769]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_customAssets/_widget/WBP_HUD_Auto4
 [2026.03.06-10.03.04:194][769]LogSavePackage: Moving '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/WBP_HUD_Auto452A0F53E46F248AE5CF6D598D8E047EC.tmp' to '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/Autosaves/Game/_customAssets/_widget/WBP_HUD_Auto4.uasset'
 [2026.03.06-10.03.04:195][769]LogFileHelpers: Auto-saving content packages took 0.142
+[2026.03.06-10.07.16:947][848]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2870.726074
+[2026.03.06-10.07.17:114][868]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-10.07.17:114][869]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2870.885010, Update Interval: 351.569580
+[2026.03.06-10.13.16:001][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.06-10.13.16:004][270]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.027
+[2026.03.06-10.13.16:004][270]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_customAssets/_widget/WBP_HUD] ([2] browsable assets)...
+[2026.03.06-10.13.16:008][270]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_customAssets/_widget/WBP_HUD.WBP_HUD]
+[2026.03.06-10.13.16:008][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/_customAssets/_widget/WBP_HUD]
+[2026.03.06-10.13.16:016][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_customAssets/_widget/WBP_HUD_Auto5
+[2026.03.06-10.13.16:016][270]LogSavePackage: Moving '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/WBP_HUD_Auto5DBDE1BFB448D4837A8BC58A64EA4DA64.tmp' to '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/Autosaves/Game/_customAssets/_widget/WBP_HUD_Auto5.uasset'
+[2026.03.06-10.13.16:017][270]LogFileHelpers: Auto-saving content packages took 0.014
+[2026.03.06-10.14.04:589][416]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3278.381348
+[2026.03.06-10.14.05:594][419]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-10.14.05:594][419]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3279.052490, Update Interval: 304.418457
+[2026.03.06-10.16.22:738][293]LogEditorTransaction: Undo Add Node
+[2026.03.06-10.16.53:400][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.03.06-10.18.20:519][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.03.06-10.19.55:328][121]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3629.131836
+[2026.03.06-10.19.55:461][137]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-10.19.55:461][138]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3629.256836, Update Interval: 333.322540
+[2026.03.06-10.20.16:193][245]LogSlate: Window 'Change Variable Type' being destroyed
+[2026.03.06-10.20.33:594][450]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.03.06-10.20.33:600][450]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.03.06-10.20.42:564][459]LogDerivedDataCache: C:/Users/S25171578/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.06-10.23.16:103][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.06-10.23.16:112][874]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Lvl_ThirdPerson_Auto6
+[2026.03.06-10.23.16:112][874]LogSavePackage: Moving '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/Lvl_ThirdPerson_Auto6D4462B16454166809404DBA9DCB9F142.tmp' to '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/Autosaves/Game/ThirdPerson/Lvl_ThirdPerson_Auto6.umap'
+[2026.03.06-10.23.16:114][874]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.036
+[2026.03.06-10.23.16:114][874]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2026.03.06-10.23.16:114][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.06-10.23.16:171][874]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.03.06-10.23.16:171][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.06-10.23.16:187][874]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6
+[2026.03.06-10.23.16:187][874]LogSavePackage: Moving '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/BP_ThirdPersonCharacter_Auto6682C44CF41B944A83B098DB43B0CC91D.tmp' to '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6.uasset'
+[2026.03.06-10.23.16:188][874]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_customAssets/_widget/WBP_HUD] ([2] browsable assets)...
+[2026.03.06-10.23.16:191][874]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_customAssets/_widget/WBP_HUD.WBP_HUD]
+[2026.03.06-10.23.16:191][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/_customAssets/_widget/WBP_HUD]
+[2026.03.06-10.23.16:200][874]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_customAssets/_widget/WBP_HUD_Auto6
+[2026.03.06-10.23.16:200][874]LogSavePackage: Moving '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/WBP_HUD_Auto62159931F40BDBA49BB07DA9645098B38.tmp' to '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/Autosaves/Game/_customAssets/_widget/WBP_HUD_Auto6.uasset'
+[2026.03.06-10.23.16:200][874]LogFileHelpers: Auto-saving content packages took 0.086
+[2026.03.06-10.24.56:578][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.03.06-10.26.09:445][622]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4003.256836
+[2026.03.06-10.26.10:449][625]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-10.26.10:449][625]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4003.923828, Update Interval: 315.504028
+[2026.03.06-10.32.19:493][732]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4373.305664
+[2026.03.06-10.32.20:490][736]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-10.32.20:490][736]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4373.974121, Update Interval: 318.109680
+[2026.03.06-10.38.36:867][864]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4750.678223
+[2026.03.06-10.38.37:864][867]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-10.38.37:864][868]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4751.340820, Update Interval: 349.771423
+[2026.03.06-10.45.02:246][ 20]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5136.064453
+[2026.03.06-10.45.03:249][ 23]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-10.45.03:249][ 23]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5136.730469, Update Interval: 301.992249
+[2026.03.06-10.50.52:625][ 71]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5486.455078
+[2026.03.06-10.50.53:626][ 74]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-10.50.53:627][ 75]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5487.121582, Update Interval: 357.786194
+[2026.03.06-10.57.45:343][309]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5899.176270
+[2026.03.06-10.57.46:342][312]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-10.57.46:342][312]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5899.843262, Update Interval: 314.072083
+[2026.03.06-11.03.41:048][376]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6254.888184
+[2026.03.06-11.03.42:050][379]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-11.03.42:050][379]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6255.556152, Update Interval: 307.132172
+[2026.03.06-11.06.21:847][ 77]LogPSOHitching: Encountered 300 PSO creation hitches so far (119 graphics, 181 compute). 0 of them were precached.
+[2026.03.06-11.06.31:854][ 35]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.03.06-11.06.31:865][ 35]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.03.06-11.06.31:870][ 35]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.03.06-11.06.31:879][ 36]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.03.06-11.06.36:423][581]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> pauseMenu
+[2026.03.06-11.06.36:432][581]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.03.06-11.06.46:882][593]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.03.06-11.06.46:891][593]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.03.06-11.06.46:895][593]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.03.06-11.06.46:903][594]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.03.06-11.06.49:759][936]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> mainMenu
+[2026.03.06-11.06.49:764][936]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.03.06-11.07.00:150][872]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.03.06-11.07.00:159][872]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.03.06-11.07.00:164][872]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.03.06-11.07.00:173][873]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.03.06-11.07.03:175][222]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> optionMenu
+[2026.03.06-11.07.03:180][222]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.03.06-11.07.12:516][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.03.06-11.07.12:524][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.06-11.07.12:610][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.03.06-11.07.12:619][332]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Lvl_ThirdPerson
+[2026.03.06-11.07.12:620][332]LogSavePackage: Moving '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/Lvl_ThirdPerson8C3D408547F6F1AE381FD6BE2990477F.tmp' to '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/ThirdPerson/Lvl_ThirdPerson.umap'
+[2026.03.06-11.07.12:628][332]LogFileHelpers: All files are already saved.
+[2026.03.06-11.07.12:629][332]LogFileHelpers: Saving map 'Lvl_ThirdPerson' took 0.055
+[2026.03.06-11.07.12:629][332]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.03.06-11.07.12:629][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.03.06-11.07.12:645][332]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.03.06-11.07.12:645][332]LogSavePackage: Moving '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/BP_ThirdPersonCharacter72FE0F1D429F0ED7449D0E9C933E8D6F.tmp' to '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.03.06-11.07.12:647][332]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_customAssets/_widget/WBP_HUD] ([2] browsable assets)...
+[2026.03.06-11.07.12:649][332]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_customAssets/_widget/WBP_HUD.WBP_HUD]
+[2026.03.06-11.07.12:649][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/_customAssets/_widget/WBP_HUD]
+[2026.03.06-11.07.12:658][332]LogSavePackage: Moving output files for package: /Game/_customAssets/_widget/WBP_HUD
+[2026.03.06-11.07.12:659][332]LogSavePackage: Moving '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/WBP_HUD39EDD4D5499EFBE6CC8B4684FC0C53EE.tmp' to '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/_customAssets/_widget/WBP_HUD.uasset'
+[2026.03.06-11.07.12:660][332]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_customAssets/blueprints/pauseMenu] ([2] browsable assets)...
+[2026.03.06-11.07.12:661][332]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_customAssets/blueprints/pauseMenu.pauseMenu]
+[2026.03.06-11.07.12:661][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/_customAssets/blueprints/pauseMenu]
+[2026.03.06-11.07.12:666][332]LogSavePackage: Moving output files for package: /Game/_customAssets/blueprints/pauseMenu
+[2026.03.06-11.07.12:666][332]LogSavePackage: Moving '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/pauseMenu0602E02946373D16C70371812098437A.tmp' to '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/_customAssets/blueprints/pauseMenu.uasset'
+[2026.03.06-11.07.12:668][332]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_customAssets/blueprints/mainMenu] ([2] browsable assets)...
+[2026.03.06-11.07.12:670][332]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_customAssets/blueprints/mainMenu.mainMenu]
+[2026.03.06-11.07.12:670][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/_customAssets/blueprints/mainMenu]
+[2026.03.06-11.07.12:673][332]LogSavePackage: Moving output files for package: /Game/_customAssets/blueprints/mainMenu
+[2026.03.06-11.07.12:673][332]LogSavePackage: Moving '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/mainMenu82F178A84A5FC7D153CB63AC03A84862.tmp' to '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/_customAssets/blueprints/mainMenu.uasset'
+[2026.03.06-11.07.12:676][332]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_customAssets/blueprints/optionMenu] ([2] browsable assets)...
+[2026.03.06-11.07.12:677][332]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_customAssets/blueprints/optionMenu.optionMenu]
+[2026.03.06-11.07.12:677][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/_customAssets/blueprints/optionMenu]
+[2026.03.06-11.07.12:681][332]LogSavePackage: Moving output files for package: /Game/_customAssets/blueprints/optionMenu
+[2026.03.06-11.07.12:681][332]LogSavePackage: Moving '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/optionMenuDE318A8F4E69D203A9E527A4878A5979.tmp' to '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Content/_customAssets/blueprints/optionMenu.uasset'
+[2026.03.06-11.07.12:691][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.848 ms (total: 271.289 ms)
+[2026.03.06-11.07.12:738][332]LogContentValidation: Display: Starting to validate 6 assets
+[2026.03.06-11.07.12:738][332]LogContentValidation: Enabled validators:
+[2026.03.06-11.07.12:738][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.06-11.07.12:738][332]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.06-11.07.12:738][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.06-11.07.12:738][332]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.06-11.07.12:738][332]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.06-11.07.12:738][332]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.06-11.07.12:738][332]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.03.06-11.07.12:738][332]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.03.06-11.07.12:739][332]AssetCheck: /Game/_customAssets/_widget/WBP_HUD Validating asset
+[2026.03.06-11.07.12:739][332]AssetCheck: /Game/_customAssets/blueprints/pauseMenu Validating asset
+[2026.03.06-11.07.12:739][332]AssetCheck: /Game/_customAssets/blueprints/mainMenu Validating asset
+[2026.03.06-11.07.12:739][332]AssetCheck: /Game/_customAssets/blueprints/optionMenu Validating asset
+[2026.03.06-11.07.12:753][332]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.06-11.07.16:849][795]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_customAssets/blueprints/mainMenu.mainMenu
+[2026.03.06-11.07.16:849][795]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.03.06-11.07.16:854][795]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.03.06-11.07.20:299][127]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_customAssets/blueprints/optionMenu.optionMenu
+[2026.03.06-11.07.20:299][127]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.03.06-11.07.20:305][127]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.03.06-11.07.22:534][301]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_customAssets/blueprints/pauseMenu.pauseMenu
+[2026.03.06-11.07.22:534][301]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2026.03.06-11.07.22:539][301]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2026.03.06-11.09.38:206][322]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6612.052734
+[2026.03.06-11.09.38:328][334]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-11.09.38:328][334]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6612.166504, Update Interval: 353.768738
+[2026.03.06-11.09.56:031][411]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.03.06-11.10.00:664][871]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.03.06-11.10.03:988][173]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.03.06-11.13.20:974][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.06-11.15.05:509][659]LogEditorTransaction: Undo Edit Top
+[2026.03.06-11.15.06:173][682]LogEditorTransaction: Undo Edit Left
+[2026.03.06-11.16.16:242][  9]LogSlate: Took 0.011995 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2026.03.06-11.16.16:326][ 11]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7010.160156
+[2026.03.06-11.16.16:476][ 29]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-11.16.16:476][ 30]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7010.299805, Update Interval: 352.963043
+[2026.03.06-11.16.44:382][140]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.03.06-11.19.34:531][830]LogEditorTransaction: Undo Rename Widget
+[2026.03.06-11.20.03:287][131]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.06-11.20.17:305][781]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.06-11.20.23:914][542]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.06-11.20.30:090][240]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.06-11.20.35:007][793]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.06-11.20.42:564][673]LogDerivedDataCache: C:/Users/S25171578/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.06-11.22.02:682][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.06-11.22.02:688][618]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.034
+[2026.03.06-11.22.02:688][618]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_customAssets/blueprints/pauseMenu] ([2] browsable assets)...
+[2026.03.06-11.22.02:694][618]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_customAssets/blueprints/pauseMenu.pauseMenu]
+[2026.03.06-11.22.02:694][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/_customAssets/blueprints/pauseMenu]
+[2026.03.06-11.22.02:701][618]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_customAssets/blueprints/pauseMenu_Auto7
+[2026.03.06-11.22.02:701][618]LogSavePackage: Moving '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/pauseMenu_Auto7B9E907F74DFE5C62BFC17CA29E119410.tmp' to '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/Autosaves/Game/_customAssets/blueprints/pauseMenu_Auto7.uasset'
+[2026.03.06-11.22.02:702][618]LogFileHelpers: Auto-saving content packages took 0.015
+[2026.03.06-11.22.45:989][837]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7399.823730
+[2026.03.06-11.22.46:130][854]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-11.22.46:130][854]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7399.956543, Update Interval: 320.715363
+[2026.03.06-11.27.02:975][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.03.06-11.28.00:500][368]LogEditorTransaction: Undo Set Vector Property
+[2026.03.06-11.28.49:826][149]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7763.678223
+[2026.03.06-11.28.50:001][170]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-11.28.50:001][171]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7763.846191, Update Interval: 342.071594
+[2026.03.06-11.32.03:465][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.06-11.32.03:469][729]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.029
+[2026.03.06-11.32.03:469][729]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_customAssets/blueprints/pauseMenu] ([2] browsable assets)...
+[2026.03.06-11.32.03:477][729]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_customAssets/blueprints/pauseMenu.pauseMenu]
+[2026.03.06-11.32.03:477][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/_customAssets/blueprints/pauseMenu]
+[2026.03.06-11.32.03:486][729]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_customAssets/blueprints/pauseMenu_Auto8
+[2026.03.06-11.32.03:486][729]LogSavePackage: Moving '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/pauseMenu_Auto86B53E0474781255B26111E8ED8DEACE7.tmp' to '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/Autosaves/Game/_customAssets/blueprints/pauseMenu_Auto8.uasset'
+[2026.03.06-11.32.03:487][729]LogFileHelpers: Auto-saving content packages took 0.018
+[2026.03.06-11.35.22:431][326]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8156.284668
+[2026.03.06-11.35.23:427][329]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-11.35.23:427][329]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8156.952148, Update Interval: 306.667084
+[2026.03.06-11.41.11:469][373]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8505.321289
+[2026.03.06-11.41.12:466][376]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-11.41.12:466][376]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8505.985352, Update Interval: 354.951630
+[2026.03.06-11.48.05:572][615]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8919.424805
+[2026.03.06-11.48.06:574][618]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-11.48.06:574][618]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8920.096680, Update Interval: 328.742950
+[2026.03.06-11.51.02:375][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.03.06-11.51.02:378][963]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.051
+[2026.03.06-11.51.02:378][963]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_customAssets/blueprints/pauseMenu] ([2] browsable assets)...
+[2026.03.06-11.51.02:382][963]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_customAssets/blueprints/pauseMenu.pauseMenu]
+[2026.03.06-11.51.02:382][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/_customAssets/blueprints/pauseMenu]
+[2026.03.06-11.51.02:391][963]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_customAssets/blueprints/pauseMenu_Auto9
+[2026.03.06-11.51.02:391][963]LogSavePackage: Moving '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/pauseMenu_Auto922C962DF4DBC9D9FE7203A8C1A9A89D1.tmp' to '../../../../../../Users/S25171578/Documents/GitHub/Unreal-CMP4305/MyProject2/Saved/Autosaves/Game/_customAssets/blueprints/pauseMenu_Auto9.uasset'
+[2026.03.06-11.51.02:391][963]LogFileHelpers: Auto-saving content packages took 0.013
+[2026.03.06-11.54.25:755][364]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9299.514648
+[2026.03.06-11.54.25:923][384]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-11.54.25:923][384]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9299.672852, Update Interval: 300.109863
+[2026.03.06-12.00.13:300][ 68]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9646.847656
+[2026.03.06-12.00.13:466][ 88]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-12.00.13:466][ 88]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9647.004883, Update Interval: 353.431793
+[2026.03.06-12.07.01:622][952]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10055.118164
+[2026.03.06-12.07.02:621][955]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-12.07.02:621][955]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10055.785156, Update Interval: 325.095367
+[2026.03.06-12.13.05:665][ 44]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10419.148438
+[2026.03.06-12.13.06:669][ 47]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-12.13.06:669][ 47]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10419.819336, Update Interval: 350.716278
+[2026.03.06-12.19.39:388][225]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10812.848633
+[2026.03.06-12.19.40:387][228]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-12.19.40:387][228]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10813.515625, Update Interval: 358.551575
+[2026.03.06-12.20.42:564][415]LogDerivedDataCache: C:/Users/S25171578/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.06-12.26.30:106][457]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11223.561523
+[2026.03.06-12.26.31:106][460]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-12.26.31:106][460]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11224.227539, Update Interval: 327.679077
+[2026.03.06-12.32.52:156][603]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11605.587891
+[2026.03.06-12.32.53:156][606]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-12.32.53:156][606]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11606.251953, Update Interval: 307.716309
+[2026.03.06-12.38.47:215][668]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11960.640625
+[2026.03.06-12.38.48:216][671]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-12.38.48:216][671]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11961.307617, Update Interval: 320.984528
+[2026.03.06-12.45.02:599][794]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12336.006836
+[2026.03.06-12.45.03:601][797]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-12.45.03:601][797]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12336.672852, Update Interval: 305.742371
+[2026.03.06-12.50.52:979][845]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12686.379883
+[2026.03.06-12.50.53:979][848]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-12.50.53:979][848]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12687.045898, Update Interval: 357.593933
+[2026.03.06-12.57.48:702][ 92]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13102.092773
+[2026.03.06-12.57.49:702][ 95]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-12.57.49:702][ 95]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13102.757812, Update Interval: 313.156525
+[2026.03.06-13.03.50:091][176]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13463.487305
+[2026.03.06-13.03.51:091][179]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-13.03.51:091][179]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13464.154297, Update Interval: 303.103729
+[2026.03.06-13.09.52:144][262]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13825.524414
+[2026.03.06-13.09.53:143][265]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.06-13.09.53:143][265]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13826.188477, Update Interval: 327.907959
